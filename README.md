@@ -3,10 +3,6 @@ vuex的demo
 vuex todolist例子
 # 安装步骤
 
-    
-    
-    
-    
     # 安装依赖
     npm install
     # 启动项目 localhost:8080
